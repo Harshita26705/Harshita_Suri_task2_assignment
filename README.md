@@ -6,7 +6,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/AuroraSkiesBot" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20with%20AuroraBot-telegram-blue?logo=telegram" alt="Chat with AuroraSkiesBot on Telegram"/>
+    <img src="https://img.shields.io/badge/Chat%20with%20AuroraBot-telegram-blue?logo=telegram" alt="Chat with AuroraBot on Telegram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1GteojpbQxLbzj18ePqKzSo9-_opP26m6/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-Google%20Drive-green?logo=google-drive" alt="Watch Demo Video"/>
   </a>
 </p>
 
